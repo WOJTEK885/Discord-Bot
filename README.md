@@ -1,1 +1,1 @@
-# Discord-Bot lol
+# Discord-Bot
